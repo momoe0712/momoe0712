@@ -1,3 +1,13 @@
+<p align="center">
+	<img src="./assets/Felix Baringin Jeconiah W S.png">
+</p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/felixsamosir/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</p>
+
 # 👋 Hi, I'm Felix!
 
 Welcome to my GitHub profile! I'm passionate about exploring the ever-evolving world of technology, specializing in Computer Vision, Machine Learning, Web Developing, Networking, and beyond.
