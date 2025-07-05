@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the ever-evolving w
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
