@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Felix!
 
-<!--
-**momoe0712/momoe0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about exploring the ever-evolving world of technology, specializing in Computer Vision, Machine Learning, Web Developing, Networking, and beyond.
 
-Here are some ideas to get you started:
+## 🚀 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Machine Learning & Artificial Intelligence  
+- 🧠 Deep Learning & Computer Vision  
+- 📊 Data Science & Data Visualization  
+- 🖥️ Web Development & Backend Systems  
+- 📚 Research and Academic Writing
+
+## 🛠️ Skills
+
+### Languages & Databases
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data & ML Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Web & Backend Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+📫 **Let's connect!** Feel free to reach out or check out my projects.
