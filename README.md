@@ -6,6 +6,9 @@
 	<a href="https://www.linkedin.com/in/felixsamosir/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
+	<a href="https://momoe0712.github.io/portofolio/">
+		<img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+	</a>
 </p>
 
 # 👋 Hi, I'm Felix!
